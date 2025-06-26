@@ -1,0 +1,190 @@
+a{
+    color: #000;
+    text-decoration: none;
+}
+#nav{
+    display: flex;
+    gap:60px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#prodname{
+    font-size: 50px;
+    padding-left: 250px;
+    font-family: cursive;
+}
+#header{
+    display: flex;
+    gap: 230px;
+    margin-top: -20px;
+}
+#signin{
+    margin-top: 63px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#signin:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#navele:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+
+}
+#pic1{
+    width: 1343px;
+    margin-top: -20px;
+    object-fit: cover;
+
+}
+#content{
+    position: relative;
+}
+#slogan{
+    position: absolute;
+    color:white;
+    top: 60px;
+    left: 40%;
+    padding-top: 150px;
+    font-family: papyrus;
+    font-size: 50px;
+}
+#btn1{
+    position: absolute;
+    top: 350px;
+    left: 50%;
+    background-color: transparent;
+    border-radius: none;
+    border-style: solid;
+    color: white;
+    border-color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}#btn1:hover{
+    cursor: pointer;
+    transform: scale(1.1);;
+}
+
+#add1,#add2,#add3{
+    width: 300px;
+}
+#add1,#add2,#add3{
+    background-color: black;
+    padding-bottom: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 12px ;
+}
+#item1,#item2,#item3{
+    background-color: black;
+}
+#item1:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#item2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#item3:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#features{
+    display: flex;
+    gap: 40px;
+    padding-left: 160px;
+    padding-top: 30px;
+}
+
+#loc{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 50px;
+    text-decoration: underline;
+    
+}
+
+#add{
+    font-size: 20px;
+    padding-left: 100px;
+    
+}
+#con{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 10px;
+    text-decoration: underline;
+    
+}
+
+#no{
+    font-size: 20px;
+    padding-left: 100px;
+    
+}
+#footer{
+    margin-top: 100px;
+    background-color: #E39771;
+    padding-bottom: 50px;
+}
+#logo1{
+    padding-left: 99px;
+}
+
+#des1,#des2,#des3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+ 
+
+
+
+#header2{
+    padding-top:20px;
+    padding-bottom: 80px;
+    border: #000 solid 1px;
+    background-color: white;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 100px;
+
+
+
+}
+
+#username,#password,#mail{
+    border: #000 solid 1px;
+    height: 30px;
+    border-bottom: 1px black solid;
+    width: 300px;
+    
+}
+#page2{
+    background-image: linear-gradient(400deg, pink 30%,blue 70%);
+    height: 100vh;
+    overflow: hidden;
+}
+#logbtn{
+    width: 200px;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    border-color: #0099FF;
+    background-color: #0099FF;
+    border-style: solid;
+    border-width: 1px;
+}
+#logbtn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+#diff{
+    color:#0099FF;
+}
+
+#diff:hover{
+    cursor: pointer;
+}
